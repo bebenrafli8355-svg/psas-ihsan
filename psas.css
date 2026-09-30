@@ -1,0 +1,49 @@
+* {
+    box-sizing:border-box;
+}
+    body {
+        margin: 0;
+        background-color: aqua;
+    }
+
+    .kepala {
+        margin-top: center;
+        font-family: arial,sans-serif;
+        text-align: center;
+        background-color: blue;
+        color: blueviolet;
+        padding: 8px;
+    }
+
+      .kotak {
+        background-color: aqua;
+        padding-top: 50px;
+        margin-top: 25px;
+        text-align: center;
+      }
+           
+         .gatau{
+            background-color: aquamarine;
+            margin-top: center;
+            padding: 2px;
+            color: aquamarine;
+            text-align: center;
+         }
+             
+            footer{
+                text-align: center;
+                background-color: blueviolet;
+                color: brown;
+                padding: 25px;            
+                font-size: 20px;
+                margin-top: 100px;
+            }
+            
+               .gambar-belakang{
+                width: 100px;
+                max-width: 500px;
+                display: block;
+                margin: 0 auto 20px;
+                border-radius: 10px;
+                margin-top: 50px;
+               }
